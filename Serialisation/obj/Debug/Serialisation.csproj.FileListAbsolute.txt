@@ -1,0 +1,76 @@
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\Serialisation.exe.config
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\Serialisation.exe
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\Serialisation.pdb
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\Google.Apis.Auth.dll
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\Google.Apis.Core.dll
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\Google.Apis.dll
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\System.Net.Http.dll
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\Google.Apis.xml
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\Google.Apis.Auth.xml
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\Google.Apis.Core.xml
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\obj\Debug\Serialisation.csprojResolveAssemblyReference.cache
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\obj\Debug\Serialisation.csproj.CoreCompileInputs.cache
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\obj\Debug\Serialisation.exe
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\obj\Debug\Serialisation.pdb
+C:\Users\bjohnston3\source\repos\Serialisation\Serialisation\bin\Debug\client_secret.json
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\client_secret.json
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\Serialisation.exe.config
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\Serialisation.exe
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\Serialisation.pdb
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.Auth.dll
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.Core.dll
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.dll
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\System.Net.Http.dll
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.xml
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.Auth.xml
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.Core.xml
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\obj\Debug\Serialisation.csprojResolveAssemblyReference.cache
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\obj\Debug\Serialisation.csproj.CoreCompileInputs.cache
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\obj\Debug\Serialisation.csproj.CopyComplete
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\obj\Debug\Serialisation.exe
+C:\Users\bjohnston3\Desktop\Serialisation\Serialisation\Serialisation\obj\Debug\Serialisation.pdb
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\client_secret.json
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\Serialisation.exe.config
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\Serialisation.exe
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\Serialisation.pdb
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.Auth.dll
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.Core.dll
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.dll
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.Sheets.v4.dll
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\Newtonsoft.Json.dll
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\System.Net.Http.dll
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.xml
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.Auth.xml
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.Core.xml
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\Google.Apis.Sheets.v4.xml
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\bin\Debug\Newtonsoft.Json.xml
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\obj\Debug\Serialisation.csprojResolveAssemblyReference.cache
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\obj\Debug\Serialisation.csproj.CoreCompileInputs.cache
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\obj\Debug\Serialisation.exe
+D:\Brady's Documents\UNI Stuff\Showreel stuff\Serialisation\Serialisation\Serialisation\Serialisation\obj\Debug\Serialisation.pdb
